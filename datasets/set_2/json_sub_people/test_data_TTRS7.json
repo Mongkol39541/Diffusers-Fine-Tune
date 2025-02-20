@@ -1,0 +1,818 @@
+[
+    {
+        "image":"datasets\/set_1\/naangsaawnphaaratn_rumnum\/h`yaekhrng\/image\/668f935105c2b98ad527eaf7_0004.jpg",
+        "conditioning_image":"datasets\/set_2\/naangsaawnphaaratn_rumnum\/h`yaekhrng\/conditioning_image\/668f935105c2b98ad527eaf7_0004.jpg",
+        "text":"TTRS7, Thai woman, mid-30s, black suit, dark blue shirt, showing sign language, light blue background.",
+        "name":"TTRS7"
+    },
+    {
+        "image":"datasets\/set_1\/naangsaawnphaaratn_rumnum\/hmuupaa\/image\/670df40905c2b98ad5b3b474_0071.jpg",
+        "conditioning_image":"datasets\/set_2\/naangsaawnphaaratn_rumnum\/hmuupaa\/conditioning_image\/670df40905c2b98ad5b3b474_0071.jpg",
+        "text":"TTRS7, Thai woman, mid-30s, black suit, dark blue shirt, showing sign language, light blue background.",
+        "name":"TTRS7"
+    },
+    {
+        "image":"datasets\/set_1\/naangsaawnphaaratn_rumnum\/`ueng`aang\/image\/670e15c805c2b98ad5b45fa5_0031.jpg",
+        "conditioning_image":"datasets\/set_2\/naangsaawnphaaratn_rumnum\/`ueng`aang\/conditioning_image\/670e15c805c2b98ad5b45fa5_0031.jpg",
+        "text":"TTRS7, Thai woman, mid-30s, black suit, dark blue shirt, showing sign language, light blue background.",
+        "name":"TTRS7"
+    },
+    {
+        "image":"datasets\/set_1\/naangsaawnphaaratn_rumnum\/paad\/image\/670e152e05c2b98ad5b44c5d_0026.jpg",
+        "conditioning_image":"datasets\/set_2\/naangsaawnphaaratn_rumnum\/paad\/conditioning_image\/670e152e05c2b98ad5b44c5d_0026.jpg",
+        "text":"TTRS7, Thai woman, mid-30s, black suit, dark blue shirt, showing sign language, light blue background.",
+        "name":"TTRS7"
+    },
+    {
+        "image":"datasets\/set_1\/naangsaawnphaaratn_rumnum\/paad\/image\/670e152e05c2b98ad5b44c5d_0063.jpg",
+        "conditioning_image":"datasets\/set_2\/naangsaawnphaaratn_rumnum\/paad\/conditioning_image\/670e152e05c2b98ad5b44c5d_0063.jpg",
+        "text":"TTRS7, Thai woman, mid-30s, black suit, dark blue shirt, showing sign language, light blue background.",
+        "name":"TTRS7"
+    },
+    {
+        "image":"datasets\/set_1\/naangsaawnphaaratn_rumnum\/h`yaekhrng\/image\/668f935105c2b98ad527eaf7_0127.jpg",
+        "conditioning_image":"datasets\/set_2\/naangsaawnphaaratn_rumnum\/h`yaekhrng\/conditioning_image\/668f935105c2b98ad527eaf7_0127.jpg",
+        "text":"TTRS7, Thai woman, mid-30s, black suit, dark blue shirt, showing sign language, light blue background.",
+        "name":"TTRS7"
+    },
+    {
+        "image":"datasets\/set_1\/naangsaawnphaaratn_rumnum\/h`yaekhrng\/image\/668f935105c2b98ad527eaf7_0014.jpg",
+        "conditioning_image":"datasets\/set_2\/naangsaawnphaaratn_rumnum\/h`yaekhrng\/conditioning_image\/668f935105c2b98ad527eaf7_0014.jpg",
+        "text":"TTRS7, Thai woman, mid-30s, black suit, dark blue shirt, showing sign language, light blue background.",
+        "name":"TTRS7"
+    },
+    {
+        "image":"datasets\/set_1\/naangsaawnphaaratn_rumnum\/plaach`n\/image\/66962d3605c2b98ad533999d_0090.jpg",
+        "conditioning_image":"datasets\/set_2\/naangsaawnphaaratn_rumnum\/plaach`n\/conditioning_image\/66962d3605c2b98ad533999d_0090.jpg",
+        "text":"TTRS7, Thai woman, mid-30s, black suit, dark blue shirt, showing sign language, light blue background.",
+        "name":"TTRS7"
+    },
+    {
+        "image":"datasets\/set_1\/naangsaawnphaaratn_rumnum\/esuue`dam\/image\/670de91405c2b98ad5b39e07_0070.jpg",
+        "conditioning_image":"datasets\/set_2\/naangsaawnphaaratn_rumnum\/esuue`dam\/conditioning_image\/670de91405c2b98ad5b39e07_0070.jpg",
+        "text":"TTRS7, Thai woman, mid-30s, black suit, dark blue shirt, showing sign language, light blue background.",
+        "name":"TTRS7"
+    },
+    {
+        "image":"datasets\/set_1\/naangsaawnphaaratn_rumnum\/plaach`n\/image\/66962d3605c2b98ad533999d_0026.jpg",
+        "conditioning_image":"datasets\/set_2\/naangsaawnphaaratn_rumnum\/plaach`n\/conditioning_image\/66962d3605c2b98ad533999d_0026.jpg",
+        "text":"TTRS7, Thai woman, mid-30s, black suit, dark blue shirt, showing sign language, light blue background.",
+        "name":"TTRS7"
+    },
+    {
+        "image":"datasets\/set_1\/naangsaawnphaaratn_rumnum\/h`yaekhrng\/image\/668f935105c2b98ad527eaf7_0126.jpg",
+        "conditioning_image":"datasets\/set_2\/naangsaawnphaaratn_rumnum\/h`yaekhrng\/conditioning_image\/668f935105c2b98ad527eaf7_0126.jpg",
+        "text":"TTRS7, Thai woman, mid-30s, black suit, dark blue shirt, showing sign language, light blue background.",
+        "name":"TTRS7"
+    },
+    {
+        "image":"datasets\/set_1\/naangsaawnphaaratn_rumnum\/hnuu\/image\/670df2ab05c2b98ad5b3b319_0016.jpg",
+        "conditioning_image":"datasets\/set_2\/naangsaawnphaaratn_rumnum\/hnuu\/conditioning_image\/670df2ab05c2b98ad5b3b319_0016.jpg",
+        "text":"TTRS7, Thai woman, mid-30s, black suit, dark blue shirt, showing sign language, light blue background.",
+        "name":"TTRS7"
+    },
+    {
+        "image":"datasets\/set_1\/naangsaawnphaaratn_rumnum\/plaathuu\/image\/6696377b05c2b98ad533d6bd_0126.jpg",
+        "conditioning_image":"datasets\/set_2\/naangsaawnphaaratn_rumnum\/plaathuu\/conditioning_image\/6696377b05c2b98ad533d6bd_0126.jpg",
+        "text":"TTRS7, Thai woman, mid-30s, black suit, dark blue shirt, showing sign language, light blue background.",
+        "name":"TTRS7"
+    },
+    {
+        "image":"datasets\/set_1\/naangsaawnphaaratn_rumnum\/plaathuu\/image\/6696377b05c2b98ad533d6bd_0066.jpg",
+        "conditioning_image":"datasets\/set_2\/naangsaawnphaaratn_rumnum\/plaathuu\/conditioning_image\/6696377b05c2b98ad533d6bd_0066.jpg",
+        "text":"TTRS7, Thai woman, mid-30s, black suit, dark blue shirt, showing sign language, light blue background.",
+        "name":"TTRS7"
+    },
+    {
+        "image":"datasets\/set_1\/naangsaawnphaaratn_rumnum\/esuue`dam\/image\/670de91405c2b98ad5b39e07_0026.jpg",
+        "conditioning_image":"datasets\/set_2\/naangsaawnphaaratn_rumnum\/esuue`dam\/conditioning_image\/670de91405c2b98ad5b39e07_0026.jpg",
+        "text":"TTRS7, Thai woman, mid-30s, black suit, dark blue shirt, showing sign language, light blue background.",
+        "name":"TTRS7"
+    },
+    {
+        "image":"datasets\/set_1\/naangsaawnphaaratn_rumnum\/plaach`n\/image\/66962d3605c2b98ad533999d_0041.jpg",
+        "conditioning_image":"datasets\/set_2\/naangsaawnphaaratn_rumnum\/plaach`n\/conditioning_image\/66962d3605c2b98ad533999d_0041.jpg",
+        "text":"TTRS7, Thai woman, mid-30s, black suit, dark blue shirt, showing sign language, light blue background.",
+        "name":"TTRS7"
+    },
+    {
+        "image":"datasets\/set_1\/naangsaawnphaaratn_rumnum\/hipopopetmas\/image\/670e130205c2b98ad5b437f5_0014.jpg",
+        "conditioning_image":"datasets\/set_2\/naangsaawnphaaratn_rumnum\/hipopopetmas\/conditioning_image\/670e130205c2b98ad5b437f5_0014.jpg",
+        "text":"TTRS7, Thai woman, mid-30s, black suit, dark blue shirt, showing sign language, light blue background.",
+        "name":"TTRS7"
+    },
+    {
+        "image":"datasets\/set_1\/naangsaawnphaaratn_rumnum\/plaathuu\/image\/6696377b05c2b98ad533d6bd_0044.jpg",
+        "conditioning_image":"datasets\/set_2\/naangsaawnphaaratn_rumnum\/plaathuu\/conditioning_image\/6696377b05c2b98ad533d6bd_0044.jpg",
+        "text":"TTRS7, Thai woman, mid-30s, black suit, dark blue shirt, showing sign language, light blue background.",
+        "name":"TTRS7"
+    },
+    {
+        "image":"datasets\/set_1\/naangsaawnphaaratn_rumnum\/h`yaekhrng\/image\/668f935105c2b98ad527eaf7_0120.jpg",
+        "conditioning_image":"datasets\/set_2\/naangsaawnphaaratn_rumnum\/h`yaekhrng\/conditioning_image\/668f935105c2b98ad527eaf7_0120.jpg",
+        "text":"TTRS7, Thai woman, mid-30s, black suit, dark blue shirt, showing sign language, light blue background.",
+        "name":"TTRS7"
+    },
+    {
+        "image":"datasets\/set_1\/naangsaawnphaaratn_rumnum\/hmii\/image\/670e124805c2b98ad5b42def_0015.jpg",
+        "conditioning_image":"datasets\/set_2\/naangsaawnphaaratn_rumnum\/hmii\/conditioning_image\/670e124805c2b98ad5b42def_0015.jpg",
+        "text":"TTRS7, Thai woman, mid-30s, black suit, dark blue shirt, showing sign language, light blue background.",
+        "name":"TTRS7"
+    },
+    {
+        "image":"datasets\/set_1\/naangsaawnphaaratn_rumnum\/esuue`dam\/image\/670de91405c2b98ad5b39e07_0071.jpg",
+        "conditioning_image":"datasets\/set_2\/naangsaawnphaaratn_rumnum\/esuue`dam\/conditioning_image\/670de91405c2b98ad5b39e07_0071.jpg",
+        "text":"TTRS7, Thai woman, mid-30s, black suit, dark blue shirt, showing sign language, light blue background.",
+        "name":"TTRS7"
+    },
+    {
+        "image":"datasets\/set_1\/naangsaawnphaaratn_rumnum\/plaathuu\/image\/6696377b05c2b98ad533d6bd_0082.jpg",
+        "conditioning_image":"datasets\/set_2\/naangsaawnphaaratn_rumnum\/plaathuu\/conditioning_image\/6696377b05c2b98ad533d6bd_0082.jpg",
+        "text":"TTRS7, Thai woman, mid-30s, black suit, dark blue shirt, showing sign language, light blue background.",
+        "name":"TTRS7"
+    },
+    {
+        "image":"datasets\/set_1\/naangsaawnphaaratn_rumnum\/esuue`dam\/image\/670de91405c2b98ad5b39e07_0006.jpg",
+        "conditioning_image":"datasets\/set_2\/naangsaawnphaaratn_rumnum\/esuue`dam\/conditioning_image\/670de91405c2b98ad5b39e07_0006.jpg",
+        "text":"TTRS7, Thai woman, mid-30s, black suit, dark blue shirt, showing sign language, light blue background.",
+        "name":"TTRS7"
+    },
+    {
+        "image":"datasets\/set_1\/naangsaawnphaaratn_rumnum\/hingh`y\/image\/670e1be005c2b98ad5b49cb1_0006.jpg",
+        "conditioning_image":"datasets\/set_2\/naangsaawnphaaratn_rumnum\/hingh`y\/conditioning_image\/670e1be005c2b98ad5b49cb1_0006.jpg",
+        "text":"TTRS7, Thai woman, mid-30s, black suit, dark blue shirt, showing sign language, light blue background.",
+        "name":"TTRS7"
+    },
+    {
+        "image":"datasets\/set_1\/naangsaawnphaaratn_rumnum\/hmad\/image\/670e17c905c2b98ad5b46bea_0034.jpg",
+        "conditioning_image":"datasets\/set_2\/naangsaawnphaaratn_rumnum\/hmad\/conditioning_image\/670e17c905c2b98ad5b46bea_0034.jpg",
+        "text":"TTRS7, Thai woman, mid-30s, black suit, dark blue shirt, showing sign language, light blue background.",
+        "name":"TTRS7"
+    },
+    {
+        "image":"datasets\/set_1\/naangsaawnphaaratn_rumnum\/plaathuu\/image\/6696377b05c2b98ad533d6bd_0047.jpg",
+        "conditioning_image":"datasets\/set_2\/naangsaawnphaaratn_rumnum\/plaathuu\/conditioning_image\/6696377b05c2b98ad533d6bd_0047.jpg",
+        "text":"TTRS7, Thai woman, mid-30s, black suit, dark blue shirt, showing sign language, light blue background.",
+        "name":"TTRS7"
+    },
+    {
+        "image":"datasets\/set_1\/naangsaawnphaaratn_rumnum\/h`yaekhrng\/image\/668f935105c2b98ad527eaf7_0106.jpg",
+        "conditioning_image":"datasets\/set_2\/naangsaawnphaaratn_rumnum\/h`yaekhrng\/conditioning_image\/668f935105c2b98ad527eaf7_0106.jpg",
+        "text":"TTRS7, Thai woman, mid-30s, black suit, dark blue shirt, showing sign language, light blue background.",
+        "name":"TTRS7"
+    },
+    {
+        "image":"datasets\/set_1\/naangsaawnphaaratn_rumnum\/hmii\/image\/670e124805c2b98ad5b42def_0006.jpg",
+        "conditioning_image":"datasets\/set_2\/naangsaawnphaaratn_rumnum\/hmii\/conditioning_image\/670e124805c2b98ad5b42def_0006.jpg",
+        "text":"TTRS7, Thai woman, mid-30s, black suit, dark blue shirt, showing sign language, light blue background.",
+        "name":"TTRS7"
+    },
+    {
+        "image":"datasets\/set_1\/naangsaawnphaaratn_rumnum\/hmad\/image\/670e17c905c2b98ad5b46bea_0045.jpg",
+        "conditioning_image":"datasets\/set_2\/naangsaawnphaaratn_rumnum\/hmad\/conditioning_image\/670e17c905c2b98ad5b46bea_0045.jpg",
+        "text":"TTRS7, Thai woman, mid-30s, black suit, dark blue shirt, showing sign language, light blue background.",
+        "name":"TTRS7"
+    },
+    {
+        "image":"datasets\/set_1\/naangsaawnphaaratn_rumnum\/`uuth\/image\/670df6cf05c2b98ad5b3cb9c_0022.jpg",
+        "conditioning_image":"datasets\/set_2\/naangsaawnphaaratn_rumnum\/`uuth\/conditioning_image\/670df6cf05c2b98ad5b3cb9c_0022.jpg",
+        "text":"TTRS7, Thai woman, mid-30s, black suit, dark blue shirt, showing sign language, light blue background.",
+        "name":"TTRS7"
+    },
+    {
+        "image":"datasets\/set_1\/naangsaawnphaaratn_rumnum\/`ueng`aang\/image\/670e15c805c2b98ad5b45fa5_0006.jpg",
+        "conditioning_image":"datasets\/set_2\/naangsaawnphaaratn_rumnum\/`ueng`aang\/conditioning_image\/670e15c805c2b98ad5b45fa5_0006.jpg",
+        "text":"TTRS7, Thai woman, mid-30s, black suit, dark blue shirt, showing sign language, light blue background.",
+        "name":"TTRS7"
+    },
+    {
+        "image":"datasets\/set_1\/naangsaawnphaaratn_rumnum\/hingh`y\/image\/670e1be005c2b98ad5b49cb1_0009.jpg",
+        "conditioning_image":"datasets\/set_2\/naangsaawnphaaratn_rumnum\/hingh`y\/conditioning_image\/670e1be005c2b98ad5b49cb1_0009.jpg",
+        "text":"TTRS7, Thai woman, mid-30s, black suit, dark blue shirt, showing sign language, light blue background.",
+        "name":"TTRS7"
+    },
+    {
+        "image":"datasets\/set_1\/naangsaawnphaaratn_rumnum\/paad\/image\/670e152e05c2b98ad5b44c5d_0065.jpg",
+        "conditioning_image":"datasets\/set_2\/naangsaawnphaaratn_rumnum\/paad\/conditioning_image\/670e152e05c2b98ad5b44c5d_0065.jpg",
+        "text":"TTRS7, Thai woman, mid-30s, black suit, dark blue shirt, showing sign language, light blue background.",
+        "name":"TTRS7"
+    },
+    {
+        "image":"datasets\/set_1\/naangsaawnphaaratn_rumnum\/plaach`n\/image\/66962d3605c2b98ad533999d_0073.jpg",
+        "conditioning_image":"datasets\/set_2\/naangsaawnphaaratn_rumnum\/plaach`n\/conditioning_image\/66962d3605c2b98ad533999d_0073.jpg",
+        "text":"TTRS7, Thai woman, mid-30s, black suit, dark blue shirt, showing sign language, light blue background.",
+        "name":"TTRS7"
+    },
+    {
+        "image":"datasets\/set_1\/naangsaawnphaaratn_rumnum\/h`yaekhrng\/image\/668f935105c2b98ad527eaf7_0005.jpg",
+        "conditioning_image":"datasets\/set_2\/naangsaawnphaaratn_rumnum\/h`yaekhrng\/conditioning_image\/668f935105c2b98ad527eaf7_0005.jpg",
+        "text":"TTRS7, Thai woman, mid-30s, black suit, dark blue shirt, showing sign language, light blue background.",
+        "name":"TTRS7"
+    },
+    {
+        "image":"datasets\/set_1\/naangsaawnphaaratn_rumnum\/h`yaekhrng\/image\/668f935105c2b98ad527eaf7_0078.jpg",
+        "conditioning_image":"datasets\/set_2\/naangsaawnphaaratn_rumnum\/h`yaekhrng\/conditioning_image\/668f935105c2b98ad527eaf7_0078.jpg",
+        "text":"TTRS7, Thai woman, mid-30s, black suit, dark blue shirt, showing sign language, light blue background.",
+        "name":"TTRS7"
+    },
+    {
+        "image":"datasets\/set_1\/naangsaawnphaaratn_rumnum\/h`yaemlngphuu\/image\/668f8a9805c2b98ad527b5f6_0005.jpg",
+        "conditioning_image":"datasets\/set_2\/naangsaawnphaaratn_rumnum\/h`yaemlngphuu\/conditioning_image\/668f8a9805c2b98ad527b5f6_0005.jpg",
+        "text":"TTRS7, Thai woman, mid-30s, black suit, dark blue shirt, showing sign language, light blue background.",
+        "name":"TTRS7"
+    },
+    {
+        "image":"datasets\/set_1\/naangsaawnphaaratn_rumnum\/paad\/image\/670e152e05c2b98ad5b44c5d_0003.jpg",
+        "conditioning_image":"datasets\/set_2\/naangsaawnphaaratn_rumnum\/paad\/conditioning_image\/670e152e05c2b98ad5b44c5d_0003.jpg",
+        "text":"TTRS7, Thai woman, mid-30s, black suit, dark blue shirt, showing sign language, light blue background.",
+        "name":"TTRS7"
+    },
+    {
+        "image":"datasets\/set_1\/naangsaawnphaaratn_rumnum\/h`yaemlngphuu\/image\/668f8a9805c2b98ad527b5f6_0007.jpg",
+        "conditioning_image":"datasets\/set_2\/naangsaawnphaaratn_rumnum\/h`yaemlngphuu\/conditioning_image\/668f8a9805c2b98ad527b5f6_0007.jpg",
+        "text":"TTRS7, Thai woman, mid-30s, black suit, dark blue shirt, showing sign language, light blue background.",
+        "name":"TTRS7"
+    },
+    {
+        "image":"datasets\/set_1\/naangsaawnphaaratn_rumnum\/h`yaemlngphuu\/image\/668f8a9805c2b98ad527b5f6_0049.jpg",
+        "conditioning_image":"datasets\/set_2\/naangsaawnphaaratn_rumnum\/h`yaemlngphuu\/conditioning_image\/668f8a9805c2b98ad527b5f6_0049.jpg",
+        "text":"TTRS7, Thai woman, mid-30s, black suit, dark blue shirt, showing sign language, light blue background.",
+        "name":"TTRS7"
+    },
+    {
+        "image":"datasets\/set_1\/naangsaawnphaaratn_rumnum\/`ueng`aang\/image\/670e15c805c2b98ad5b45fa5_0025.jpg",
+        "conditioning_image":"datasets\/set_2\/naangsaawnphaaratn_rumnum\/`ueng`aang\/conditioning_image\/670e15c805c2b98ad5b45fa5_0025.jpg",
+        "text":"TTRS7, Thai woman, mid-30s, black suit, dark blue shirt, showing sign language, light blue background.",
+        "name":"TTRS7"
+    },
+    {
+        "image":"datasets\/set_1\/naangsaawnphaaratn_rumnum\/`uuth\/image\/670df6cf05c2b98ad5b3cb9c_0011.jpg",
+        "conditioning_image":"datasets\/set_2\/naangsaawnphaaratn_rumnum\/`uuth\/conditioning_image\/670df6cf05c2b98ad5b3cb9c_0011.jpg",
+        "text":"TTRS7, Thai woman, mid-30s, black suit, dark blue shirt, showing sign language, light blue background.",
+        "name":"TTRS7"
+    },
+    {
+        "image":"datasets\/set_1\/naangsaawnphaaratn_rumnum\/hipopopetmas\/image\/670e130205c2b98ad5b437f5_0018.jpg",
+        "conditioning_image":"datasets\/set_2\/naangsaawnphaaratn_rumnum\/hipopopetmas\/conditioning_image\/670e130205c2b98ad5b437f5_0018.jpg",
+        "text":"TTRS7, Thai woman, mid-30s, black suit, dark blue shirt, showing sign language, light blue background.",
+        "name":"TTRS7"
+    },
+    {
+        "image":"datasets\/set_1\/naangsaawnphaaratn_rumnum\/hmii\/image\/670e124805c2b98ad5b42def_0041.jpg",
+        "conditioning_image":"datasets\/set_2\/naangsaawnphaaratn_rumnum\/hmii\/conditioning_image\/670e124805c2b98ad5b42def_0041.jpg",
+        "text":"TTRS7, Thai woman, mid-30s, black suit, dark blue shirt, showing sign language, light blue background.",
+        "name":"TTRS7"
+    },
+    {
+        "image":"datasets\/set_1\/naangsaawnphaaratn_rumnum\/h`yaekhrng\/image\/668f935105c2b98ad527eaf7_0084.jpg",
+        "conditioning_image":"datasets\/set_2\/naangsaawnphaaratn_rumnum\/h`yaekhrng\/conditioning_image\/668f935105c2b98ad527eaf7_0084.jpg",
+        "text":"TTRS7, Thai woman, mid-30s, black suit, dark blue shirt, showing sign language, light blue background.",
+        "name":"TTRS7"
+    },
+    {
+        "image":"datasets\/set_1\/naangsaawnphaaratn_rumnum\/plaach`n\/image\/66962d3605c2b98ad533999d_0058.jpg",
+        "conditioning_image":"datasets\/set_2\/naangsaawnphaaratn_rumnum\/plaach`n\/conditioning_image\/66962d3605c2b98ad533999d_0058.jpg",
+        "text":"TTRS7, Thai woman, mid-30s, black suit, dark blue shirt, showing sign language, light blue background.",
+        "name":"TTRS7"
+    },
+    {
+        "image":"datasets\/set_1\/naangsaawnphaaratn_rumnum\/h`yaekhrng\/image\/668f935105c2b98ad527eaf7_0174.jpg",
+        "conditioning_image":"datasets\/set_2\/naangsaawnphaaratn_rumnum\/h`yaekhrng\/conditioning_image\/668f935105c2b98ad527eaf7_0174.jpg",
+        "text":"TTRS7, Thai woman, mid-30s, black suit, dark blue shirt, showing sign language, light blue background.",
+        "name":"TTRS7"
+    },
+    {
+        "image":"datasets\/set_1\/naangsaawnphaaratn_rumnum\/h`yaekhrng\/image\/668f935105c2b98ad527eaf7_0100.jpg",
+        "conditioning_image":"datasets\/set_2\/naangsaawnphaaratn_rumnum\/h`yaekhrng\/conditioning_image\/668f935105c2b98ad527eaf7_0100.jpg",
+        "text":"TTRS7, Thai woman, mid-30s, black suit, dark blue shirt, showing sign language, light blue background.",
+        "name":"TTRS7"
+    },
+    {
+        "image":"datasets\/set_1\/naangsaawnphaaratn_rumnum\/`uuth\/image\/670df6cf05c2b98ad5b3cb9c_0033.jpg",
+        "conditioning_image":"datasets\/set_2\/naangsaawnphaaratn_rumnum\/`uuth\/conditioning_image\/670df6cf05c2b98ad5b3cb9c_0033.jpg",
+        "text":"TTRS7, Thai woman, mid-30s, black suit, dark blue shirt, showing sign language, light blue background.",
+        "name":"TTRS7"
+    },
+    {
+        "image":"datasets\/set_1\/naangsaawnphaaratn_rumnum\/plaathuu\/image\/6696377b05c2b98ad533d6bd_0063.jpg",
+        "conditioning_image":"datasets\/set_2\/naangsaawnphaaratn_rumnum\/plaathuu\/conditioning_image\/6696377b05c2b98ad533d6bd_0063.jpg",
+        "text":"TTRS7, Thai woman, mid-30s, black suit, dark blue shirt, showing sign language, light blue background.",
+        "name":"TTRS7"
+    },
+    {
+        "image":"datasets\/set_1\/naangsaawnphaaratn_rumnum\/plaathuu\/image\/6696377b05c2b98ad533d6bd_0057.jpg",
+        "conditioning_image":"datasets\/set_2\/naangsaawnphaaratn_rumnum\/plaathuu\/conditioning_image\/6696377b05c2b98ad533d6bd_0057.jpg",
+        "text":"TTRS7, Thai woman, mid-30s, black suit, dark blue shirt, showing sign language, light blue background.",
+        "name":"TTRS7"
+    },
+    {
+        "image":"datasets\/set_1\/naangsaawnphaaratn_rumnum\/h`yaemlngphuu\/image\/668f8a9805c2b98ad527b5f6_0002.jpg",
+        "conditioning_image":"datasets\/set_2\/naangsaawnphaaratn_rumnum\/h`yaemlngphuu\/conditioning_image\/668f8a9805c2b98ad527b5f6_0002.jpg",
+        "text":"TTRS7, Thai woman, mid-30s, black suit, dark blue shirt, showing sign language, light blue background.",
+        "name":"TTRS7"
+    },
+    {
+        "image":"datasets\/set_1\/naangsaawnphaaratn_rumnum\/`uuth\/image\/670df6cf05c2b98ad5b3cb9c_0023.jpg",
+        "conditioning_image":"datasets\/set_2\/naangsaawnphaaratn_rumnum\/`uuth\/conditioning_image\/670df6cf05c2b98ad5b3cb9c_0023.jpg",
+        "text":"TTRS7, Thai woman, mid-30s, black suit, dark blue shirt, showing sign language, light blue background.",
+        "name":"TTRS7"
+    },
+    {
+        "image":"datasets\/set_1\/naangsaawnphaaratn_rumnum\/plaathuu\/image\/6696377b05c2b98ad533d6bd_0139.jpg",
+        "conditioning_image":"datasets\/set_2\/naangsaawnphaaratn_rumnum\/plaathuu\/conditioning_image\/6696377b05c2b98ad533d6bd_0139.jpg",
+        "text":"TTRS7, Thai woman, mid-30s, black suit, dark blue shirt, showing sign language, light blue background.",
+        "name":"TTRS7"
+    },
+    {
+        "image":"datasets\/set_1\/naangsaawnphaaratn_rumnum\/plaathuu\/image\/6696377b05c2b98ad533d6bd_0081.jpg",
+        "conditioning_image":"datasets\/set_2\/naangsaawnphaaratn_rumnum\/plaathuu\/conditioning_image\/6696377b05c2b98ad533d6bd_0081.jpg",
+        "text":"TTRS7, Thai woman, mid-30s, black suit, dark blue shirt, showing sign language, light blue background.",
+        "name":"TTRS7"
+    },
+    {
+        "image":"datasets\/set_1\/naangsaawnphaaratn_rumnum\/h`yaekhrng\/image\/668f935105c2b98ad527eaf7_0081.jpg",
+        "conditioning_image":"datasets\/set_2\/naangsaawnphaaratn_rumnum\/h`yaekhrng\/conditioning_image\/668f935105c2b98ad527eaf7_0081.jpg",
+        "text":"TTRS7, Thai woman, mid-30s, black suit, dark blue shirt, showing sign language, light blue background.",
+        "name":"TTRS7"
+    },
+    {
+        "image":"datasets\/set_1\/naangsaawnphaaratn_rumnum\/hmuupaa\/image\/670df40905c2b98ad5b3b474_0061.jpg",
+        "conditioning_image":"datasets\/set_2\/naangsaawnphaaratn_rumnum\/hmuupaa\/conditioning_image\/670df40905c2b98ad5b3b474_0061.jpg",
+        "text":"TTRS7, Thai woman, mid-30s, black suit, dark blue shirt, showing sign language, light blue background.",
+        "name":"TTRS7"
+    },
+    {
+        "image":"datasets\/set_1\/naangsaawnphaaratn_rumnum\/hmuupaa\/image\/670df40905c2b98ad5b3b474_0003.jpg",
+        "conditioning_image":"datasets\/set_2\/naangsaawnphaaratn_rumnum\/hmuupaa\/conditioning_image\/670df40905c2b98ad5b3b474_0003.jpg",
+        "text":"TTRS7, Thai woman, mid-30s, black suit, dark blue shirt, showing sign language, light blue background.",
+        "name":"TTRS7"
+    },
+    {
+        "image":"datasets\/set_1\/naangsaawnphaaratn_rumnum\/plaathuu\/image\/6696377b05c2b98ad533d6bd_0101.jpg",
+        "conditioning_image":"datasets\/set_2\/naangsaawnphaaratn_rumnum\/plaathuu\/conditioning_image\/6696377b05c2b98ad533d6bd_0101.jpg",
+        "text":"TTRS7, Thai woman, mid-30s, black suit, dark blue shirt, showing sign language, light blue background.",
+        "name":"TTRS7"
+    },
+    {
+        "image":"datasets\/set_1\/naangsaawnphaaratn_rumnum\/plaathuu\/image\/6696377b05c2b98ad533d6bd_0010.jpg",
+        "conditioning_image":"datasets\/set_2\/naangsaawnphaaratn_rumnum\/plaathuu\/conditioning_image\/6696377b05c2b98ad533d6bd_0010.jpg",
+        "text":"TTRS7, Thai woman, mid-30s, black suit, dark blue shirt, showing sign language, light blue background.",
+        "name":"TTRS7"
+    },
+    {
+        "image":"datasets\/set_1\/naangsaawnphaaratn_rumnum\/hmad\/image\/670e17c905c2b98ad5b46bea_0004.jpg",
+        "conditioning_image":"datasets\/set_2\/naangsaawnphaaratn_rumnum\/hmad\/conditioning_image\/670e17c905c2b98ad5b46bea_0004.jpg",
+        "text":"TTRS7, Thai woman, mid-30s, black suit, dark blue shirt, showing sign language, light blue background.",
+        "name":"TTRS7"
+    },
+    {
+        "image":"datasets\/set_1\/naangsaawnphaaratn_rumnum\/hmad\/image\/670e17c905c2b98ad5b46bea_0036.jpg",
+        "conditioning_image":"datasets\/set_2\/naangsaawnphaaratn_rumnum\/hmad\/conditioning_image\/670e17c905c2b98ad5b46bea_0036.jpg",
+        "text":"TTRS7, Thai woman, mid-30s, black suit, dark blue shirt, showing sign language, light blue background.",
+        "name":"TTRS7"
+    },
+    {
+        "image":"datasets\/set_1\/naangsaawnphaaratn_rumnum\/plaach`n\/image\/66962d3605c2b98ad533999d_0078.jpg",
+        "conditioning_image":"datasets\/set_2\/naangsaawnphaaratn_rumnum\/plaach`n\/conditioning_image\/66962d3605c2b98ad533999d_0078.jpg",
+        "text":"TTRS7, Thai woman, mid-30s, black suit, dark blue shirt, showing sign language, light blue background.",
+        "name":"TTRS7"
+    },
+    {
+        "image":"datasets\/set_1\/naangsaawnphaaratn_rumnum\/h`yaekhrng\/image\/668f935105c2b98ad527eaf7_0094.jpg",
+        "conditioning_image":"datasets\/set_2\/naangsaawnphaaratn_rumnum\/h`yaekhrng\/conditioning_image\/668f935105c2b98ad527eaf7_0094.jpg",
+        "text":"TTRS7, Thai woman, mid-30s, black suit, dark blue shirt, showing sign language, light blue background.",
+        "name":"TTRS7"
+    },
+    {
+        "image":"datasets\/set_1\/naangsaawnphaaratn_rumnum\/plaathuu\/image\/6696377b05c2b98ad533d6bd_0058.jpg",
+        "conditioning_image":"datasets\/set_2\/naangsaawnphaaratn_rumnum\/plaathuu\/conditioning_image\/6696377b05c2b98ad533d6bd_0058.jpg",
+        "text":"TTRS7, Thai woman, mid-30s, black suit, dark blue shirt, showing sign language, light blue background.",
+        "name":"TTRS7"
+    },
+    {
+        "image":"datasets\/set_1\/naangsaawnphaaratn_rumnum\/h`yaekhrng\/image\/668f935105c2b98ad527eaf7_0054.jpg",
+        "conditioning_image":"datasets\/set_2\/naangsaawnphaaratn_rumnum\/h`yaekhrng\/conditioning_image\/668f935105c2b98ad527eaf7_0054.jpg",
+        "text":"TTRS7, Thai woman, mid-30s, black suit, dark blue shirt, showing sign language, light blue background.",
+        "name":"TTRS7"
+    },
+    {
+        "image":"datasets\/set_1\/naangsaawnphaaratn_rumnum\/h`yaemlngphuu\/image\/668f8a9805c2b98ad527b5f6_0058.jpg",
+        "conditioning_image":"datasets\/set_2\/naangsaawnphaaratn_rumnum\/h`yaemlngphuu\/conditioning_image\/668f8a9805c2b98ad527b5f6_0058.jpg",
+        "text":"TTRS7, Thai woman, mid-30s, black suit, dark blue shirt, showing sign language, light blue background.",
+        "name":"TTRS7"
+    },
+    {
+        "image":"datasets\/set_1\/naangsaawnphaaratn_rumnum\/hmad\/image\/670e17c905c2b98ad5b46bea_0018.jpg",
+        "conditioning_image":"datasets\/set_2\/naangsaawnphaaratn_rumnum\/hmad\/conditioning_image\/670e17c905c2b98ad5b46bea_0018.jpg",
+        "text":"TTRS7, Thai woman, mid-30s, black suit, dark blue shirt, showing sign language, light blue background.",
+        "name":"TTRS7"
+    },
+    {
+        "image":"datasets\/set_1\/naangsaawnphaaratn_rumnum\/singot\/image\/670df7cd05c2b98ad5b3cc52_0044.jpg",
+        "conditioning_image":"datasets\/set_2\/naangsaawnphaaratn_rumnum\/singot\/conditioning_image\/670df7cd05c2b98ad5b3cc52_0044.jpg",
+        "text":"TTRS7, Thai woman, mid-30s, black suit, dark blue shirt, showing sign language, light blue background.",
+        "name":"TTRS7"
+    },
+    {
+        "image":"datasets\/set_1\/naangsaawnphaaratn_rumnum\/h`yaemlngphuu\/image\/668f8a9805c2b98ad527b5f6_0048.jpg",
+        "conditioning_image":"datasets\/set_2\/naangsaawnphaaratn_rumnum\/h`yaemlngphuu\/conditioning_image\/668f8a9805c2b98ad527b5f6_0048.jpg",
+        "text":"TTRS7, Thai woman, mid-30s, black suit, dark blue shirt, showing sign language, light blue background.",
+        "name":"TTRS7"
+    },
+    {
+        "image":"datasets\/set_1\/naangsaawnphaaratn_rumnum\/hnuu\/image\/670df2ab05c2b98ad5b3b319_0042.jpg",
+        "conditioning_image":"datasets\/set_2\/naangsaawnphaaratn_rumnum\/hnuu\/conditioning_image\/670df2ab05c2b98ad5b3b319_0042.jpg",
+        "text":"TTRS7, Thai woman, mid-30s, black suit, dark blue shirt, showing sign language, light blue background.",
+        "name":"TTRS7"
+    },
+    {
+        "image":"datasets\/set_1\/naangsaawnphaaratn_rumnum\/hingh`y\/image\/670e1be005c2b98ad5b49cb1_0061.jpg",
+        "conditioning_image":"datasets\/set_2\/naangsaawnphaaratn_rumnum\/hingh`y\/conditioning_image\/670e1be005c2b98ad5b49cb1_0061.jpg",
+        "text":"TTRS7, Thai woman, mid-30s, black suit, dark blue shirt, showing sign language, light blue background.",
+        "name":"TTRS7"
+    },
+    {
+        "image":"datasets\/set_1\/naangsaawnphaaratn_rumnum\/hingh`y\/image\/670e1be005c2b98ad5b49cb1_0069.jpg",
+        "conditioning_image":"datasets\/set_2\/naangsaawnphaaratn_rumnum\/hingh`y\/conditioning_image\/670e1be005c2b98ad5b49cb1_0069.jpg",
+        "text":"TTRS7, Thai woman, mid-30s, black suit, dark blue shirt, showing sign language, light blue background.",
+        "name":"TTRS7"
+    },
+    {
+        "image":"datasets\/set_1\/naangsaawnphaaratn_rumnum\/`uuth\/image\/670df6cf05c2b98ad5b3cb9c_0030.jpg",
+        "conditioning_image":"datasets\/set_2\/naangsaawnphaaratn_rumnum\/`uuth\/conditioning_image\/670df6cf05c2b98ad5b3cb9c_0030.jpg",
+        "text":"TTRS7, Thai woman, mid-30s, black suit, dark blue shirt, showing sign language, light blue background.",
+        "name":"TTRS7"
+    },
+    {
+        "image":"datasets\/set_1\/naangsaawnphaaratn_rumnum\/hipopopetmas\/image\/670e130205c2b98ad5b437f5_0012.jpg",
+        "conditioning_image":"datasets\/set_2\/naangsaawnphaaratn_rumnum\/hipopopetmas\/conditioning_image\/670e130205c2b98ad5b437f5_0012.jpg",
+        "text":"TTRS7, Thai woman, mid-30s, black suit, dark blue shirt, showing sign language, light blue background.",
+        "name":"TTRS7"
+    },
+    {
+        "image":"datasets\/set_1\/naangsaawnphaaratn_rumnum\/esuue`dam\/image\/670de91405c2b98ad5b39e07_0032.jpg",
+        "conditioning_image":"datasets\/set_2\/naangsaawnphaaratn_rumnum\/esuue`dam\/conditioning_image\/670de91405c2b98ad5b39e07_0032.jpg",
+        "text":"TTRS7, Thai woman, mid-30s, black suit, dark blue shirt, showing sign language, light blue background.",
+        "name":"TTRS7"
+    },
+    {
+        "image":"datasets\/set_1\/naangsaawnphaaratn_rumnum\/plaathuu\/image\/6696377b05c2b98ad533d6bd_0109.jpg",
+        "conditioning_image":"datasets\/set_2\/naangsaawnphaaratn_rumnum\/plaathuu\/conditioning_image\/6696377b05c2b98ad533d6bd_0109.jpg",
+        "text":"TTRS7, Thai woman, mid-30s, black suit, dark blue shirt, showing sign language, light blue background.",
+        "name":"TTRS7"
+    },
+    {
+        "image":"datasets\/set_1\/naangsaawnphaaratn_rumnum\/h`yaekhrng\/image\/668f935105c2b98ad527eaf7_0087.jpg",
+        "conditioning_image":"datasets\/set_2\/naangsaawnphaaratn_rumnum\/h`yaekhrng\/conditioning_image\/668f935105c2b98ad527eaf7_0087.jpg",
+        "text":"TTRS7, Thai woman, mid-30s, black suit, dark blue shirt, showing sign language, light blue background.",
+        "name":"TTRS7"
+    },
+    {
+        "image":"datasets\/set_1\/naangsaawnphaaratn_rumnum\/paad\/image\/670e152e05c2b98ad5b44c5d_0042.jpg",
+        "conditioning_image":"datasets\/set_2\/naangsaawnphaaratn_rumnum\/paad\/conditioning_image\/670e152e05c2b98ad5b44c5d_0042.jpg",
+        "text":"TTRS7, Thai woman, mid-30s, black suit, dark blue shirt, showing sign language, light blue background.",
+        "name":"TTRS7"
+    },
+    {
+        "image":"datasets\/set_1\/naangsaawnphaaratn_rumnum\/singot\/image\/670df7cd05c2b98ad5b3cc52_0039.jpg",
+        "conditioning_image":"datasets\/set_2\/naangsaawnphaaratn_rumnum\/singot\/conditioning_image\/670df7cd05c2b98ad5b3cc52_0039.jpg",
+        "text":"TTRS7, Thai woman, mid-30s, black suit, dark blue shirt, showing sign language, light blue background.",
+        "name":"TTRS7"
+    },
+    {
+        "image":"datasets\/set_1\/naangsaawnphaaratn_rumnum\/hmuupaa\/image\/670df40905c2b98ad5b3b474_0028.jpg",
+        "conditioning_image":"datasets\/set_2\/naangsaawnphaaratn_rumnum\/hmuupaa\/conditioning_image\/670df40905c2b98ad5b3b474_0028.jpg",
+        "text":"TTRS7, Thai woman, mid-30s, black suit, dark blue shirt, showing sign language, light blue background.",
+        "name":"TTRS7"
+    },
+    {
+        "image":"datasets\/set_1\/naangsaawnphaaratn_rumnum\/h`yaekhrng\/image\/668f935105c2b98ad527eaf7_0088.jpg",
+        "conditioning_image":"datasets\/set_2\/naangsaawnphaaratn_rumnum\/h`yaekhrng\/conditioning_image\/668f935105c2b98ad527eaf7_0088.jpg",
+        "text":"TTRS7, Thai woman, mid-30s, black suit, dark blue shirt, showing sign language, light blue background.",
+        "name":"TTRS7"
+    },
+    {
+        "image":"datasets\/set_1\/naangsaawnphaaratn_rumnum\/plaach`n\/image\/66962d3605c2b98ad533999d_0042.jpg",
+        "conditioning_image":"datasets\/set_2\/naangsaawnphaaratn_rumnum\/plaach`n\/conditioning_image\/66962d3605c2b98ad533999d_0042.jpg",
+        "text":"TTRS7, Thai woman, mid-30s, black suit, dark blue shirt, showing sign language, light blue background.",
+        "name":"TTRS7"
+    },
+    {
+        "image":"datasets\/set_1\/naangsaawnphaaratn_rumnum\/plaathuu\/image\/6696377b05c2b98ad533d6bd_0083.jpg",
+        "conditioning_image":"datasets\/set_2\/naangsaawnphaaratn_rumnum\/plaathuu\/conditioning_image\/6696377b05c2b98ad533d6bd_0083.jpg",
+        "text":"TTRS7, Thai woman, mid-30s, black suit, dark blue shirt, showing sign language, light blue background.",
+        "name":"TTRS7"
+    },
+    {
+        "image":"datasets\/set_1\/naangsaawnphaaratn_rumnum\/`uuth\/image\/670df6cf05c2b98ad5b3cb9c_0000.jpg",
+        "conditioning_image":"datasets\/set_2\/naangsaawnphaaratn_rumnum\/`uuth\/conditioning_image\/670df6cf05c2b98ad5b3cb9c_0000.jpg",
+        "text":"TTRS7, Thai woman, mid-30s, black suit, dark blue shirt, showing sign language, light blue background.",
+        "name":"TTRS7"
+    },
+    {
+        "image":"datasets\/set_1\/naangsaawnphaaratn_rumnum\/`ueng`aang\/image\/670e15c805c2b98ad5b45fa5_0077.jpg",
+        "conditioning_image":"datasets\/set_2\/naangsaawnphaaratn_rumnum\/`ueng`aang\/conditioning_image\/670e15c805c2b98ad5b45fa5_0077.jpg",
+        "text":"TTRS7, Thai woman, mid-30s, black suit, dark blue shirt, showing sign language, light blue background.",
+        "name":"TTRS7"
+    },
+    {
+        "image":"datasets\/set_1\/naangsaawnphaaratn_rumnum\/hmii\/image\/670e124805c2b98ad5b42def_0003.jpg",
+        "conditioning_image":"datasets\/set_2\/naangsaawnphaaratn_rumnum\/hmii\/conditioning_image\/670e124805c2b98ad5b42def_0003.jpg",
+        "text":"TTRS7, Thai woman, mid-30s, black suit, dark blue shirt, showing sign language, light blue background.",
+        "name":"TTRS7"
+    },
+    {
+        "image":"datasets\/set_1\/naangsaawnphaaratn_rumnum\/hmad\/image\/670e17c905c2b98ad5b46bea_0057.jpg",
+        "conditioning_image":"datasets\/set_2\/naangsaawnphaaratn_rumnum\/hmad\/conditioning_image\/670e17c905c2b98ad5b46bea_0057.jpg",
+        "text":"TTRS7, Thai woman, mid-30s, black suit, dark blue shirt, showing sign language, light blue background.",
+        "name":"TTRS7"
+    },
+    {
+        "image":"datasets\/set_1\/naangsaawnphaaratn_rumnum\/plaathuu\/image\/6696377b05c2b98ad533d6bd_0026.jpg",
+        "conditioning_image":"datasets\/set_2\/naangsaawnphaaratn_rumnum\/plaathuu\/conditioning_image\/6696377b05c2b98ad533d6bd_0026.jpg",
+        "text":"TTRS7, Thai woman, mid-30s, black suit, dark blue shirt, showing sign language, light blue background.",
+        "name":"TTRS7"
+    },
+    {
+        "image":"datasets\/set_1\/naangsaawnphaaratn_rumnum\/hipopopetmas\/image\/670e130205c2b98ad5b437f5_0039.jpg",
+        "conditioning_image":"datasets\/set_2\/naangsaawnphaaratn_rumnum\/hipopopetmas\/conditioning_image\/670e130205c2b98ad5b437f5_0039.jpg",
+        "text":"TTRS7, Thai woman, mid-30s, black suit, dark blue shirt, showing sign language, light blue background.",
+        "name":"TTRS7"
+    },
+    {
+        "image":"datasets\/set_1\/naangsaawnphaaratn_rumnum\/hmad\/image\/670e17c905c2b98ad5b46bea_0007.jpg",
+        "conditioning_image":"datasets\/set_2\/naangsaawnphaaratn_rumnum\/hmad\/conditioning_image\/670e17c905c2b98ad5b46bea_0007.jpg",
+        "text":"TTRS7, Thai woman, mid-30s, black suit, dark blue shirt, showing sign language, light blue background.",
+        "name":"TTRS7"
+    },
+    {
+        "image":"datasets\/set_1\/naangsaawnphaaratn_rumnum\/hipopopetmas\/image\/670e130205c2b98ad5b437f5_0009.jpg",
+        "conditioning_image":"datasets\/set_2\/naangsaawnphaaratn_rumnum\/hipopopetmas\/conditioning_image\/670e130205c2b98ad5b437f5_0009.jpg",
+        "text":"TTRS7, Thai woman, mid-30s, black suit, dark blue shirt, showing sign language, light blue background.",
+        "name":"TTRS7"
+    },
+    {
+        "image":"datasets\/set_1\/naangsaawnphaaratn_rumnum\/hingh`y\/image\/670e1be005c2b98ad5b49cb1_0039.jpg",
+        "conditioning_image":"datasets\/set_2\/naangsaawnphaaratn_rumnum\/hingh`y\/conditioning_image\/670e1be005c2b98ad5b49cb1_0039.jpg",
+        "text":"TTRS7, Thai woman, mid-30s, black suit, dark blue shirt, showing sign language, light blue background.",
+        "name":"TTRS7"
+    },
+    {
+        "image":"datasets\/set_1\/naangsaawnphaaratn_rumnum\/paad\/image\/670e152e05c2b98ad5b44c5d_0008.jpg",
+        "conditioning_image":"datasets\/set_2\/naangsaawnphaaratn_rumnum\/paad\/conditioning_image\/670e152e05c2b98ad5b44c5d_0008.jpg",
+        "text":"TTRS7, Thai woman, mid-30s, black suit, dark blue shirt, showing sign language, light blue background.",
+        "name":"TTRS7"
+    },
+    {
+        "image":"datasets\/set_1\/naangsaawnphaaratn_rumnum\/`ueng`aang\/image\/670e15c805c2b98ad5b45fa5_0074.jpg",
+        "conditioning_image":"datasets\/set_2\/naangsaawnphaaratn_rumnum\/`ueng`aang\/conditioning_image\/670e15c805c2b98ad5b45fa5_0074.jpg",
+        "text":"TTRS7, Thai woman, mid-30s, black suit, dark blue shirt, showing sign language, light blue background.",
+        "name":"TTRS7"
+    },
+    {
+        "image":"datasets\/set_1\/naangsaawnphaaratn_rumnum\/singot\/image\/670df7cd05c2b98ad5b3cc52_0036.jpg",
+        "conditioning_image":"datasets\/set_2\/naangsaawnphaaratn_rumnum\/singot\/conditioning_image\/670df7cd05c2b98ad5b3cc52_0036.jpg",
+        "text":"TTRS7, Thai woman, mid-30s, black suit, dark blue shirt, showing sign language, light blue background.",
+        "name":"TTRS7"
+    },
+    {
+        "image":"datasets\/set_1\/naangsaawnphaaratn_rumnum\/plaathuu\/image\/6696377b05c2b98ad533d6bd_0005.jpg",
+        "conditioning_image":"datasets\/set_2\/naangsaawnphaaratn_rumnum\/plaathuu\/conditioning_image\/6696377b05c2b98ad533d6bd_0005.jpg",
+        "text":"TTRS7, Thai woman, mid-30s, black suit, dark blue shirt, showing sign language, light blue background.",
+        "name":"TTRS7"
+    },
+    {
+        "image":"datasets\/set_1\/naangsaawnphaaratn_rumnum\/h`yaemlngphuu\/image\/668f8a9805c2b98ad527b5f6_0042.jpg",
+        "conditioning_image":"datasets\/set_2\/naangsaawnphaaratn_rumnum\/h`yaemlngphuu\/conditioning_image\/668f8a9805c2b98ad527b5f6_0042.jpg",
+        "text":"TTRS7, Thai woman, mid-30s, black suit, dark blue shirt, showing sign language, light blue background.",
+        "name":"TTRS7"
+    },
+    {
+        "image":"datasets\/set_1\/naangsaawnphaaratn_rumnum\/plaach`n\/image\/66962d3605c2b98ad533999d_0009.jpg",
+        "conditioning_image":"datasets\/set_2\/naangsaawnphaaratn_rumnum\/plaach`n\/conditioning_image\/66962d3605c2b98ad533999d_0009.jpg",
+        "text":"TTRS7, Thai woman, mid-30s, black suit, dark blue shirt, showing sign language, light blue background.",
+        "name":"TTRS7"
+    },
+    {
+        "image":"datasets\/set_1\/naangsaawnphaaratn_rumnum\/singot\/image\/670df7cd05c2b98ad5b3cc52_0025.jpg",
+        "conditioning_image":"datasets\/set_2\/naangsaawnphaaratn_rumnum\/singot\/conditioning_image\/670df7cd05c2b98ad5b3cc52_0025.jpg",
+        "text":"TTRS7, Thai woman, mid-30s, black suit, dark blue shirt, showing sign language, light blue background.",
+        "name":"TTRS7"
+    },
+    {
+        "image":"datasets\/set_1\/naangsaawnphaaratn_rumnum\/hmii\/image\/670e124805c2b98ad5b42def_0027.jpg",
+        "conditioning_image":"datasets\/set_2\/naangsaawnphaaratn_rumnum\/hmii\/conditioning_image\/670e124805c2b98ad5b42def_0027.jpg",
+        "text":"TTRS7, Thai woman, mid-30s, black suit, dark blue shirt, showing sign language, light blue background.",
+        "name":"TTRS7"
+    },
+    {
+        "image":"datasets\/set_1\/naangsaawnphaaratn_rumnum\/h`yaekhrng\/image\/668f935105c2b98ad527eaf7_0011.jpg",
+        "conditioning_image":"datasets\/set_2\/naangsaawnphaaratn_rumnum\/h`yaekhrng\/conditioning_image\/668f935105c2b98ad527eaf7_0011.jpg",
+        "text":"TTRS7, Thai woman, mid-30s, black suit, dark blue shirt, showing sign language, light blue background.",
+        "name":"TTRS7"
+    },
+    {
+        "image":"datasets\/set_1\/naangsaawnphaaratn_rumnum\/`ueng`aang\/image\/670e15c805c2b98ad5b45fa5_0057.jpg",
+        "conditioning_image":"datasets\/set_2\/naangsaawnphaaratn_rumnum\/`ueng`aang\/conditioning_image\/670e15c805c2b98ad5b45fa5_0057.jpg",
+        "text":"TTRS7, Thai woman, mid-30s, black suit, dark blue shirt, showing sign language, light blue background.",
+        "name":"TTRS7"
+    },
+    {
+        "image":"datasets\/set_1\/naangsaawnphaaratn_rumnum\/h`yaekhrng\/image\/668f935105c2b98ad527eaf7_0184.jpg",
+        "conditioning_image":"datasets\/set_2\/naangsaawnphaaratn_rumnum\/h`yaekhrng\/conditioning_image\/668f935105c2b98ad527eaf7_0184.jpg",
+        "text":"TTRS7, Thai woman, mid-30s, black suit, dark blue shirt, showing sign language, light blue background.",
+        "name":"TTRS7"
+    },
+    {
+        "image":"datasets\/set_1\/naangsaawnphaaratn_rumnum\/hmuupaa\/image\/670df40905c2b98ad5b3b474_0038.jpg",
+        "conditioning_image":"datasets\/set_2\/naangsaawnphaaratn_rumnum\/hmuupaa\/conditioning_image\/670df40905c2b98ad5b3b474_0038.jpg",
+        "text":"TTRS7, Thai woman, mid-30s, black suit, dark blue shirt, showing sign language, light blue background.",
+        "name":"TTRS7"
+    },
+    {
+        "image":"datasets\/set_1\/naangsaawnphaaratn_rumnum\/h`yaekhrng\/image\/668f935105c2b98ad527eaf7_0027.jpg",
+        "conditioning_image":"datasets\/set_2\/naangsaawnphaaratn_rumnum\/h`yaekhrng\/conditioning_image\/668f935105c2b98ad527eaf7_0027.jpg",
+        "text":"TTRS7, Thai woman, mid-30s, black suit, dark blue shirt, showing sign language, light blue background.",
+        "name":"TTRS7"
+    },
+    {
+        "image":"datasets\/set_1\/naangsaawnphaaratn_rumnum\/hmuupaa\/image\/670df40905c2b98ad5b3b474_0014.jpg",
+        "conditioning_image":"datasets\/set_2\/naangsaawnphaaratn_rumnum\/hmuupaa\/conditioning_image\/670df40905c2b98ad5b3b474_0014.jpg",
+        "text":"TTRS7, Thai woman, mid-30s, black suit, dark blue shirt, showing sign language, light blue background.",
+        "name":"TTRS7"
+    },
+    {
+        "image":"datasets\/set_1\/naangsaawnphaaratn_rumnum\/plaathuu\/image\/6696377b05c2b98ad533d6bd_0119.jpg",
+        "conditioning_image":"datasets\/set_2\/naangsaawnphaaratn_rumnum\/plaathuu\/conditioning_image\/6696377b05c2b98ad533d6bd_0119.jpg",
+        "text":"TTRS7, Thai woman, mid-30s, black suit, dark blue shirt, showing sign language, light blue background.",
+        "name":"TTRS7"
+    },
+    {
+        "image":"datasets\/set_1\/naangsaawnphaaratn_rumnum\/hingh`y\/image\/670e1be005c2b98ad5b49cb1_0045.jpg",
+        "conditioning_image":"datasets\/set_2\/naangsaawnphaaratn_rumnum\/hingh`y\/conditioning_image\/670e1be005c2b98ad5b49cb1_0045.jpg",
+        "text":"TTRS7, Thai woman, mid-30s, black suit, dark blue shirt, showing sign language, light blue background.",
+        "name":"TTRS7"
+    },
+    {
+        "image":"datasets\/set_1\/naangsaawnphaaratn_rumnum\/plaathuu\/image\/6696377b05c2b98ad533d6bd_0142.jpg",
+        "conditioning_image":"datasets\/set_2\/naangsaawnphaaratn_rumnum\/plaathuu\/conditioning_image\/6696377b05c2b98ad533d6bd_0142.jpg",
+        "text":"TTRS7, Thai woman, mid-30s, black suit, dark blue shirt, showing sign language, light blue background.",
+        "name":"TTRS7"
+    },
+    {
+        "image":"datasets\/set_1\/naangsaawnphaaratn_rumnum\/h`yaekhrng\/image\/668f935105c2b98ad527eaf7_0067.jpg",
+        "conditioning_image":"datasets\/set_2\/naangsaawnphaaratn_rumnum\/h`yaekhrng\/conditioning_image\/668f935105c2b98ad527eaf7_0067.jpg",
+        "text":"TTRS7, Thai woman, mid-30s, black suit, dark blue shirt, showing sign language, light blue background.",
+        "name":"TTRS7"
+    },
+    {
+        "image":"datasets\/set_1\/naangsaawnphaaratn_rumnum\/paad\/image\/670e152e05c2b98ad5b44c5d_0049.jpg",
+        "conditioning_image":"datasets\/set_2\/naangsaawnphaaratn_rumnum\/paad\/conditioning_image\/670e152e05c2b98ad5b44c5d_0049.jpg",
+        "text":"TTRS7, Thai woman, mid-30s, black suit, dark blue shirt, showing sign language, light blue background.",
+        "name":"TTRS7"
+    },
+    {
+        "image":"datasets\/set_1\/naangsaawnphaaratn_rumnum\/hipopopetmas\/image\/670e130205c2b98ad5b437f5_0043.jpg",
+        "conditioning_image":"datasets\/set_2\/naangsaawnphaaratn_rumnum\/hipopopetmas\/conditioning_image\/670e130205c2b98ad5b437f5_0043.jpg",
+        "text":"TTRS7, Thai woman, mid-30s, black suit, dark blue shirt, showing sign language, light blue background.",
+        "name":"TTRS7"
+    },
+    {
+        "image":"datasets\/set_1\/naangsaawnphaaratn_rumnum\/hnuu\/image\/670df2ab05c2b98ad5b3b319_0044.jpg",
+        "conditioning_image":"datasets\/set_2\/naangsaawnphaaratn_rumnum\/hnuu\/conditioning_image\/670df2ab05c2b98ad5b3b319_0044.jpg",
+        "text":"TTRS7, Thai woman, mid-30s, black suit, dark blue shirt, showing sign language, light blue background.",
+        "name":"TTRS7"
+    },
+    {
+        "image":"datasets\/set_1\/naangsaawnphaaratn_rumnum\/`ueng`aang\/image\/670e15c805c2b98ad5b45fa5_0019.jpg",
+        "conditioning_image":"datasets\/set_2\/naangsaawnphaaratn_rumnum\/`ueng`aang\/conditioning_image\/670e15c805c2b98ad5b45fa5_0019.jpg",
+        "text":"TTRS7, Thai woman, mid-30s, black suit, dark blue shirt, showing sign language, light blue background.",
+        "name":"TTRS7"
+    },
+    {
+        "image":"datasets\/set_1\/naangsaawnphaaratn_rumnum\/esuue`dam\/image\/670de91405c2b98ad5b39e07_0063.jpg",
+        "conditioning_image":"datasets\/set_2\/naangsaawnphaaratn_rumnum\/esuue`dam\/conditioning_image\/670de91405c2b98ad5b39e07_0063.jpg",
+        "text":"TTRS7, Thai woman, mid-30s, black suit, dark blue shirt, showing sign language, light blue background.",
+        "name":"TTRS7"
+    },
+    {
+        "image":"datasets\/set_1\/naangsaawnphaaratn_rumnum\/`uuth\/image\/670df6cf05c2b98ad5b3cb9c_0062.jpg",
+        "conditioning_image":"datasets\/set_2\/naangsaawnphaaratn_rumnum\/`uuth\/conditioning_image\/670df6cf05c2b98ad5b3cb9c_0062.jpg",
+        "text":"TTRS7, Thai woman, mid-30s, black suit, dark blue shirt, showing sign language, light blue background.",
+        "name":"TTRS7"
+    },
+    {
+        "image":"datasets\/set_1\/naangsaawnphaaratn_rumnum\/singot\/image\/670df7cd05c2b98ad5b3cc52_0054.jpg",
+        "conditioning_image":"datasets\/set_2\/naangsaawnphaaratn_rumnum\/singot\/conditioning_image\/670df7cd05c2b98ad5b3cc52_0054.jpg",
+        "text":"TTRS7, Thai woman, mid-30s, black suit, dark blue shirt, showing sign language, light blue background.",
+        "name":"TTRS7"
+    },
+    {
+        "image":"datasets\/set_1\/naangsaawnphaaratn_rumnum\/`ueng`aang\/image\/670e15c805c2b98ad5b45fa5_0004.jpg",
+        "conditioning_image":"datasets\/set_2\/naangsaawnphaaratn_rumnum\/`ueng`aang\/conditioning_image\/670e15c805c2b98ad5b45fa5_0004.jpg",
+        "text":"TTRS7, Thai woman, mid-30s, black suit, dark blue shirt, showing sign language, light blue background.",
+        "name":"TTRS7"
+    },
+    {
+        "image":"datasets\/set_1\/naangsaawnphaaratn_rumnum\/hingh`y\/image\/670e1be005c2b98ad5b49cb1_0063.jpg",
+        "conditioning_image":"datasets\/set_2\/naangsaawnphaaratn_rumnum\/hingh`y\/conditioning_image\/670e1be005c2b98ad5b49cb1_0063.jpg",
+        "text":"TTRS7, Thai woman, mid-30s, black suit, dark blue shirt, showing sign language, light blue background.",
+        "name":"TTRS7"
+    },
+    {
+        "image":"datasets\/set_1\/naangsaawnphaaratn_rumnum\/plaathuu\/image\/6696377b05c2b98ad533d6bd_0073.jpg",
+        "conditioning_image":"datasets\/set_2\/naangsaawnphaaratn_rumnum\/plaathuu\/conditioning_image\/6696377b05c2b98ad533d6bd_0073.jpg",
+        "text":"TTRS7, Thai woman, mid-30s, black suit, dark blue shirt, showing sign language, light blue background.",
+        "name":"TTRS7"
+    },
+    {
+        "image":"datasets\/set_1\/naangsaawnphaaratn_rumnum\/`ueng`aang\/image\/670e15c805c2b98ad5b45fa5_0055.jpg",
+        "conditioning_image":"datasets\/set_2\/naangsaawnphaaratn_rumnum\/`ueng`aang\/conditioning_image\/670e15c805c2b98ad5b45fa5_0055.jpg",
+        "text":"TTRS7, Thai woman, mid-30s, black suit, dark blue shirt, showing sign language, light blue background.",
+        "name":"TTRS7"
+    },
+    {
+        "image":"datasets\/set_1\/naangsaawnphaaratn_rumnum\/hnuu\/image\/670df2ab05c2b98ad5b3b319_0048.jpg",
+        "conditioning_image":"datasets\/set_2\/naangsaawnphaaratn_rumnum\/hnuu\/conditioning_image\/670df2ab05c2b98ad5b3b319_0048.jpg",
+        "text":"TTRS7, Thai woman, mid-30s, black suit, dark blue shirt, showing sign language, light blue background.",
+        "name":"TTRS7"
+    },
+    {
+        "image":"datasets\/set_1\/naangsaawnphaaratn_rumnum\/singot\/image\/670df7cd05c2b98ad5b3cc52_0003.jpg",
+        "conditioning_image":"datasets\/set_2\/naangsaawnphaaratn_rumnum\/singot\/conditioning_image\/670df7cd05c2b98ad5b3cc52_0003.jpg",
+        "text":"TTRS7, Thai woman, mid-30s, black suit, dark blue shirt, showing sign language, light blue background.",
+        "name":"TTRS7"
+    },
+    {
+        "image":"datasets\/set_1\/naangsaawnphaaratn_rumnum\/h`yaemlngphuu\/image\/668f8a9805c2b98ad527b5f6_0023.jpg",
+        "conditioning_image":"datasets\/set_2\/naangsaawnphaaratn_rumnum\/h`yaemlngphuu\/conditioning_image\/668f8a9805c2b98ad527b5f6_0023.jpg",
+        "text":"TTRS7, Thai woman, mid-30s, black suit, dark blue shirt, showing sign language, light blue background.",
+        "name":"TTRS7"
+    },
+    {
+        "image":"datasets\/set_1\/naangsaawnphaaratn_rumnum\/esuue`dam\/image\/670de91405c2b98ad5b39e07_0005.jpg",
+        "conditioning_image":"datasets\/set_2\/naangsaawnphaaratn_rumnum\/esuue`dam\/conditioning_image\/670de91405c2b98ad5b39e07_0005.jpg",
+        "text":"TTRS7, Thai woman, mid-30s, black suit, dark blue shirt, showing sign language, light blue background.",
+        "name":"TTRS7"
+    },
+    {
+        "image":"datasets\/set_1\/naangsaawnphaaratn_rumnum\/h`yaekhrng\/image\/668f935105c2b98ad527eaf7_0146.jpg",
+        "conditioning_image":"datasets\/set_2\/naangsaawnphaaratn_rumnum\/h`yaekhrng\/conditioning_image\/668f935105c2b98ad527eaf7_0146.jpg",
+        "text":"TTRS7, Thai woman, mid-30s, black suit, dark blue shirt, showing sign language, light blue background.",
+        "name":"TTRS7"
+    },
+    {
+        "image":"datasets\/set_1\/naangsaawnphaaratn_rumnum\/`uuth\/image\/670df6cf05c2b98ad5b3cb9c_0016.jpg",
+        "conditioning_image":"datasets\/set_2\/naangsaawnphaaratn_rumnum\/`uuth\/conditioning_image\/670df6cf05c2b98ad5b3cb9c_0016.jpg",
+        "text":"TTRS7, Thai woman, mid-30s, black suit, dark blue shirt, showing sign language, light blue background.",
+        "name":"TTRS7"
+    },
+    {
+        "image":"datasets\/set_1\/naangsaawnphaaratn_rumnum\/singot\/image\/670df7cd05c2b98ad5b3cc52_0023.jpg",
+        "conditioning_image":"datasets\/set_2\/naangsaawnphaaratn_rumnum\/singot\/conditioning_image\/670df7cd05c2b98ad5b3cc52_0023.jpg",
+        "text":"TTRS7, Thai woman, mid-30s, black suit, dark blue shirt, showing sign language, light blue background.",
+        "name":"TTRS7"
+    },
+    {
+        "image":"datasets\/set_1\/naangsaawnphaaratn_rumnum\/hmuupaa\/image\/670df40905c2b98ad5b3b474_0063.jpg",
+        "conditioning_image":"datasets\/set_2\/naangsaawnphaaratn_rumnum\/hmuupaa\/conditioning_image\/670df40905c2b98ad5b3b474_0063.jpg",
+        "text":"TTRS7, Thai woman, mid-30s, black suit, dark blue shirt, showing sign language, light blue background.",
+        "name":"TTRS7"
+    },
+    {
+        "image":"datasets\/set_1\/naangsaawnphaaratn_rumnum\/plaach`n\/image\/66962d3605c2b98ad533999d_0011.jpg",
+        "conditioning_image":"datasets\/set_2\/naangsaawnphaaratn_rumnum\/plaach`n\/conditioning_image\/66962d3605c2b98ad533999d_0011.jpg",
+        "text":"TTRS7, Thai woman, mid-30s, black suit, dark blue shirt, showing sign language, light blue background.",
+        "name":"TTRS7"
+    },
+    {
+        "image":"datasets\/set_1\/naangsaawnphaaratn_rumnum\/esuue`dam\/image\/670de91405c2b98ad5b39e07_0031.jpg",
+        "conditioning_image":"datasets\/set_2\/naangsaawnphaaratn_rumnum\/esuue`dam\/conditioning_image\/670de91405c2b98ad5b39e07_0031.jpg",
+        "text":"TTRS7, Thai woman, mid-30s, black suit, dark blue shirt, showing sign language, light blue background.",
+        "name":"TTRS7"
+    },
+    {
+        "image":"datasets\/set_1\/naangsaawnphaaratn_rumnum\/paad\/image\/670e152e05c2b98ad5b44c5d_0010.jpg",
+        "conditioning_image":"datasets\/set_2\/naangsaawnphaaratn_rumnum\/paad\/conditioning_image\/670e152e05c2b98ad5b44c5d_0010.jpg",
+        "text":"TTRS7, Thai woman, mid-30s, black suit, dark blue shirt, showing sign language, light blue background.",
+        "name":"TTRS7"
+    },
+    {
+        "image":"datasets\/set_1\/naangsaawnphaaratn_rumnum\/hmuupaa\/image\/670df40905c2b98ad5b3b474_0021.jpg",
+        "conditioning_image":"datasets\/set_2\/naangsaawnphaaratn_rumnum\/hmuupaa\/conditioning_image\/670df40905c2b98ad5b3b474_0021.jpg",
+        "text":"TTRS7, Thai woman, mid-30s, black suit, dark blue shirt, showing sign language, light blue background.",
+        "name":"TTRS7"
+    },
+    {
+        "image":"datasets\/set_1\/naangsaawnphaaratn_rumnum\/plaach`n\/image\/66962d3605c2b98ad533999d_0002.jpg",
+        "conditioning_image":"datasets\/set_2\/naangsaawnphaaratn_rumnum\/plaach`n\/conditioning_image\/66962d3605c2b98ad533999d_0002.jpg",
+        "text":"TTRS7, Thai woman, mid-30s, black suit, dark blue shirt, showing sign language, light blue background.",
+        "name":"TTRS7"
+    },
+    {
+        "image":"datasets\/set_1\/naangsaawnphaaratn_rumnum\/plaach`n\/image\/66962d3605c2b98ad533999d_0100.jpg",
+        "conditioning_image":"datasets\/set_2\/naangsaawnphaaratn_rumnum\/plaach`n\/conditioning_image\/66962d3605c2b98ad533999d_0100.jpg",
+        "text":"TTRS7, Thai woman, mid-30s, black suit, dark blue shirt, showing sign language, light blue background.",
+        "name":"TTRS7"
+    }
+]
